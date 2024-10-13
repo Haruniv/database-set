@@ -138,3 +138,5 @@ https://dev.mysql.com/get/Downloads/MySQL-8.4/mysql-8.4.2.tar.gz
 https://myinfrabox.tistory.com/253
 
 https://data-architect.notion.site/my-cnf-c937227cd1cb493895e030f0d877f66a
+
+https://bstar36.tistory.com/311#google_vignette
